@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Bruno Oliveira 👋
 
-<!--
-**brunooliveira7/brunooliveira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a web developer. And I've been studying web development for three years.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Stack
+- 🔥Main language: `JavaScript`
+- 📡Backend: `Node.js`
+- ⚡️Frontend: `HTML5`, `CSS3`, `JavaScript`, `Reactjs`
+- 🎨 Layout Desing: `Figma`
+- 📦️ Version Code Control: `Git`, `GitHub`
+- 🧑‍💻 Tolls: `VsCode`, `MarkDown`
+- 🚀 Focus and persistence to learn more and more
