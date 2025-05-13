@@ -1,13 +1,21 @@
-## Hi there, I'm Bruno Oliveira 👋
+## 👋 Hi there, I'm Bruno Oliveira
 
-#### About
-I'm a web developer. And I've been studying web development for three years.  
+### 🧑‍💻 About Me
+I'm a passionate web developer with 3 years of consistent study and hands-on experience in web technologies. I enjoy building modern, responsive, and scalable applications while continuously learning and evolving my skill set.
 
-#### Current Stack
-- 🔥Main language: `JavaScript`
-- ⚡️Frontend: `Reactjs`, `HTML5`, `CSS3` 
-- 📡Backend: `Node.js`, `TypeScript`, `SQL`, `Docker`
-- 🎨 Layout Desing: `Figma`
-- 📦️ Version Code Control: `Git`, `GitHub`
-- 🧑‍💻 Tolls: `VsCode`, `MarkDown`
-- 🚀 Focus and persistence to learn more and more
+### 🚀 Tech Stack
+
+- **Main Language**:  
+  `JavaScript`
+
+- **Frontend**:  
+  `React.js`, `HTML5`, `CSS3`
+
+- **Backend**:  
+  `Node.js`, `TypeScript`, `SQL`, `Prisma`, `Docker`
+
+- **Tools & Platforms**:  
+  `Git`, `GitHub`, `VS Code`, `Markdown`, `Figma`
+
+### 🎯 What Drives Me
+Focus, persistence, and a strong desire to keep learning and improving every day.
