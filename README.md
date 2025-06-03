@@ -6,13 +6,13 @@ I'm a passionate web developer with 3 years of consistent study and hands-on exp
 ### 🚀 Tech Stack
 
 - **Main Language**:  
-  `JavaScript`
+  `JavaScript`, `TypeScript`
 
 - **Frontend**:  
-  `React.js`, `HTML5`, `CSS3`, `Tailwind CSS`
+  `React.js`, `Tailwind CSS`, `HTML5`, `CSS3` 
 
 - **Backend**:  
-  `Node.js`, `TypeScript`, `SQL`, `Prisma`, `Docker`
+  `Node.js`, `SQL`, `Prisma`, `Docker`
 
 - **Tools & Platforms**:  
   `Git`, `GitHub`, `VS Code`, `Markdown`, `Figma`
