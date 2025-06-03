@@ -9,7 +9,7 @@ I'm a passionate web developer with 3 years of consistent study and hands-on exp
   `JavaScript`
 
 - **Frontend**:  
-  `React.js`, `HTML5`, `CSS3`
+  `React.js`, `HTML5`, `CSS3`, `Tailwind CSS`
 
 - **Backend**:  
   `Node.js`, `TypeScript`, `SQL`, `Prisma`, `Docker`
