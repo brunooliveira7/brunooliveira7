@@ -28,16 +28,26 @@ I'm a passionate web developer with 3 years of consistent study and hands-on exp
   </div>
 
 - **Backend**:  
-  `Node.js`, `SQL`, `Prisma`, `Docker`
-     <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="react logo"  />
+  `Node.js`, `SQL`, `Docker`, `Postgresql`, `Prisma`
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
     <img width="12" />
   </div>
 
 - **Tools & Platforms**:  
   `Git`, `GitHub`, `VS Code`, `Markdown`, `Figma`
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+    <img width="12" />
+  <div/>
 
 ### 🎯 What Drives Me
 Focus, persistence, and a strong desire to keep learning and improving every day.
