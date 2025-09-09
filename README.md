@@ -41,11 +41,13 @@ I'm a passionate web developer with 3 years of consistent study and hands-on exp
   </div>
 
 - **Tools & Platforms**:  
-  `Git`, `GitHub`, `VS Code`, `Markdown`, `Figma`
+  `Git`, `Figma`, `Markdown`
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
     <img width="12" />
   <div/>
 
