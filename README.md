@@ -3,11 +3,7 @@
 ### 🧑‍💻 About Me
 I'm a web developer passionate about creating modern, responsive, and scalable applications. Over the past 4 years, I've been learning and building with technologies like React, Node.js, and TypeScript — always exploring new ways to write better and cleaner code.
 
----
-
-### 🚀 Tech Stack
-
----
+## 🚀 Tech Stack
 
 ### **Main Language**
 `JavaScript`, `TypeScript`
