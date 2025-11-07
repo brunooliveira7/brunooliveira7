@@ -48,8 +48,6 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"/>
 </div>
 
----
-
-### 🎯 What Drives Me
+## 🎯 What Drives Me
 Focus, persistence, and a strong desire to keep learning and improving every day.
 
