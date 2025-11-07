@@ -7,7 +7,7 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
 
 - **Main Language**:  
   `JavaScript`, `TypeScript`
-  <div align="left">
+  <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -16,7 +16,7 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
 
 - **Frontend**:  
   `React.js`, `Tailwind CSS`, `HTML5`, `CSS3`
-   <div align="left">
+   <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -29,7 +29,7 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
 
 - **Backend**:  
   `Node.js`, `SQL`, `Docker`, `Postgresql`, `Prisma`
-  <div align="left">
+  <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -42,7 +42,7 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
 
 - **Tools & Platforms**:  
   `Git`, `Figma`, `Markdown`
-  <div align="left">
+  <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
