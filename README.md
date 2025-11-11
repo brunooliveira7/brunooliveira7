@@ -13,8 +13,6 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
 </div>
 
----
-
 ### **Frontend**
 `React.js`, `Tailwind CSS`, `HTML5`, `CSS3`
 
@@ -25,8 +23,6 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
 </div>
 
----
-
 ### **Backend**
 `Node.js`, `SQL`, `Docker`, `Postgresql`, `Prisma`
 
@@ -36,8 +32,6 @@ I'm a web developer passionate about creating modern, responsive, and scalable a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
 </div>
-
----
 
 ### **Tools & Platforms**
 `Git`, `Figma`, `Markdown`
